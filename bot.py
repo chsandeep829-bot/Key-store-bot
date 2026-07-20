@@ -7,7 +7,7 @@ import threading
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputFile
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "8790381588:AAFiGFwf5OhhyEkbRdvpbmhwuPx6QdRVVVQ"  # Replace with your fresh BotFather token
+TOKEN = "8790381588:AAGQj_NFAXyl1MNtpNH_v5YXfceQSenDiMc"  # Replace with your fresh BotFather token
 KEYS_FILE = "license_keys"
 UPI_ID = "paytm.s2spkis@pty"  # Replace with your actual UPI ID for payments
 
