@@ -13,7 +13,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 # ---------- CONFIGURATION ----------
 
-TOKEN = "8790381588:AAFaYe8FSBBW5NL5mrirD2rcQiuiUVSisB0"
+TOKEN = "8790381588:AAGGfxFtKCW9poXHB2cw1x93O8VgVDEINB8"
 MERCHANT_UPI_ID = "paytm.s2zndyh@pty"
 MERCHANT_NAME = "Key Store"
 
